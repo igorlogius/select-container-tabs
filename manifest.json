@@ -9,6 +9,7 @@
   },
   "description": "Select Container Tabs",
   "icons": {
+    "128": "icon.png"
   },
   "manifest_version": 2,
   "name": "Select Container Tabs",
@@ -17,5 +18,5 @@
     "menus",
     "cookies"
   ],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
